@@ -18,6 +18,7 @@
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-slot": "^1.2.3",
     "@tailwindcss/postcss": "^4.1.11",
+    "bcryptjs": "^3.0.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.1",
@@ -27,6 +28,7 @@
     "imagekitio-react": "^4.3.0",
     "lucide-react": "^0.535.0",
     "next": "15.4.5",
+    "next-auth": "^5.0.0-beta.29",
     "next-themes": "^0.4.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -37,6 +39,7 @@
     "zod": "^4.0.14"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^3.0.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
